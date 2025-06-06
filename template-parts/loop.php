@@ -1,3 +1,13 @@
+<div class="grid grid-cols-3 gap-4 content-start">
+	<img class="object-cover" src="https://picsum.photos/800/600?random=1" />  
+	<img class="object-cover" src="https://picsum.photos/800/600?random=2" />  
+	<img class="object-cover" src="https://picsum.photos/800/600?random=3" />  
+	<img class="object-cover" src="https://picsum.photos/800/600?random=4" />  
+	<img class="object-cover" src="https://picsum.photos/800/600?random=5" />  
+	<img class="object-cover" src="https://picsum.photos/800/600?random=6" />  
+	<img class="object-cover" src="https://picsum.photos/800/600?random=7" />  
+</div>
+
 <?php if ( have_posts() ) : ?>
 
 	<ul>
